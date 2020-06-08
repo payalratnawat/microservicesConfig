@@ -1,0 +1,4 @@
+Department-service.deptId=102
+Department-service.deptName=Computer Science
+Department-service.deptNickName=CS
+Department-service.deptHead=Alok Panchal
